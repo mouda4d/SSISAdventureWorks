@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+<DTSConfigurationHeading><DTSConfigurationFileInfo 
+GeneratedBy="AzureAD\es-Faresahmed2020" 
+GeneratedFromPackageName="Lesson 5" 
+GeneratedFromPackageID="{F3D1E2C0-1881-4701-8169-6A886CA9AA42}" 
+GeneratedDate="8/6/2024 8:24:45 PM"/></DTSConfigurationHeading><Configuration 
+ConfiguredType="Property" 
+Path="\Package.Variables[User::VarFolderName].Properties[Value]" 
+ValueType="String">
+        <ConfiguredValue>C:\New Sample Data</ConfiguredValue>
+    </Configuration>
+</DTSConfiguration>
